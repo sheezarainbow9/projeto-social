@@ -3,9 +3,9 @@
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-   <img src="https://img.shields.io/badge/GITHUBPAGES-DEPLOY-blue?label=GITHUBPAGES&message=DEPLOY&color=blue&style=for-the-badge&logo=githubpages"/>
-   <img src="https://img.shields.io/badge/HTML-HTML5-orange?label=HTML&message=HTML5&color=orange&style=for-the-badge&logo=HTML5"/>
-   <img src="https://img.shields.io/badge/CSS-CSS3-informational?label=CSS&message=CSS3&color=informational&style=for-the-badge&logo=CSS3"/>
+   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 > Status do Projeto: :heavy_check_mark:
