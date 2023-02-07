@@ -1,4 +1,4 @@
-<h1>Projeto Redes Sociais</h1> 
+<h1>Projeto Site Cordel Parallax</h1> 
 
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
@@ -19,13 +19,12 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Projeto de um site com links para redes sociais, tendo como base orientações do canal CursoemVídeo.
+  Projeto de um site com efeito parallax, tendo como base orientações do canal CursoemVídeo.
 </p>
 
 
 ## Deploy da Aplicação :dash:
 
-https://sheezarainbow9.github.io/projeto-social/
-
+https://sheezarainbow9.github.io/desafio-cordel/
 
 
